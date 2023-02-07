@@ -15,6 +15,7 @@ if (option.equals("n")) {
 System.out.println("Enter a name and a starting balance, separated by a space");
 String nameAndBalance = input.nextLine();
 String[] nameAndBalanceArray = nameAndBalance.split(" ");
+// System.out.println("New account created for " Acacia" with starting balance of $200.00");
 
 
 }
